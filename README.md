@@ -10,5 +10,6 @@ https://creativecommons.org/licenses/by/3.0/br/legalcode
 
 
 Development by Dany Nazaré
+
 Copyleft – all rights reversed
 
